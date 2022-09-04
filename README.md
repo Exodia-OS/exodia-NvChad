@@ -1,6 +1,9 @@
 # exodia-NvChad
 NvChad For Exodia OS
 
+![](img/demo.gif)
+
+
 |                |                |
 |----------------|----------------|
 | ![](img/1.png) | ![](img/2.png) |
