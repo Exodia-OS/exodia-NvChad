@@ -6,7 +6,7 @@
 
 pkgname=exodia-NvChad
 pkgver=1.0
-pkgrel=2
+pkgrel=3
 pkgdesc="NvChad : the ultimate neovim configuration"
 arch=('any')
 url='https://github.com/NvChad/NvChad'
@@ -14,7 +14,7 @@ license=('GPL')
 depends=('neovim')
 makedepends=('git')
 optdepends=()
-groups=("exodia-os-skeleton")
+groups=("exodia-os-skeleton" "exodia-text-editors")
 
 source=('nvim-config.tar.gz' 'nvim-plugins.tar.gz')
 
