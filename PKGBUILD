@@ -11,7 +11,8 @@ pkgdesc="NvChad : the ultimate neovim configuration"
 arch=('any')
 url='https://github.com/NvChad/NvChad'
 license=('GPL')
-depends=('neovim' 'lua')
+depends=('neovim' 'lua'
+		 'ripgrep:  required for grep searching with Telescope')
 makedepends=('git')
 optdepends=()
 groups=(
