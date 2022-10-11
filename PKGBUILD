@@ -6,7 +6,7 @@
 
 pkgname=exodia-NvChad
 pkgver=1.0
-pkgrel=5
+pkgrel=6
 pkgdesc="NvChad : the ultimate neovim configuration"
 arch=('any')
 url='https://github.com/NvChad/NvChad'
@@ -36,7 +36,7 @@ source=(
 
 sha256sums=(
 
-	'181893b00bfcbfa36ff1ce00984ebb034a3abfe6345e49a1343deaa7317eea99'
+	'ec5ab25e66ddeadb0742eb6af6f213a73e9b36fd07c526c1708c4a844ae41d2c'
     'a0f71e2d3f3ac554fc49c5c8144b43203347466de22647f4cf1224b0a70df170'
 
 )
