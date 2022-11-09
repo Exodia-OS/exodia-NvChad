@@ -5,8 +5,8 @@
 #
 
 pkgname=exodia-NvChad
-pkgver=1.0
-pkgrel=8
+pkgver=2.0
+pkgrel=1
 pkgdesc="NvChad : the ultimate neovim configuration"
 arch=('any')
 url='https://github.com/NvChad/NvChad'
